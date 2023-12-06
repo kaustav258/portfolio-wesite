@@ -250,7 +250,7 @@ span {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
-    gap: 12rem;
+    gap: 3rem;
     justify-content: center; /* Center grid items horizontally */
     width: 70%; /* Adjust width as needed */
     margin: 0 auto; /* Center the grid within .skill-content */
